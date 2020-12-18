@@ -31,10 +31,6 @@ footer::after {
 
 /* ------------column system ---------- */
 
-/* [class^⁼col-] {
-  float: left;
-} */
-
 .col-3 {
   width: 100%;
   margin-top: 1em;
